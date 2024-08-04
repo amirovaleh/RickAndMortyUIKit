@@ -1,0 +1,15 @@
+{
+  "originHash" : "77da4540b33a8aebdff304bbd1a14890c28244ffc20ff60c5138597d11a7b057",
+  "pins" : [
+    {
+      "identity" : "anchorkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/habiboff/AnchorKit",
+      "state" : {
+        "revision" : "a766e1ff5075215aab5fb239f20fed663adb2261",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
